@@ -110,7 +110,7 @@ camera.far = 50000; // distance from screen
 camera.setFocalLength(24); //object size
 
 var texsSrc = {
-  fog: '?' }; //object source
+  fog: 'https://rawcdn.githack.com/Viktorrrrriia/SMI_Lab5/ef665841b3d7e406b6e53590f9b9ac2f367c143e/Rain.png' }; //object source
 
 var fog = new Fog();
 
