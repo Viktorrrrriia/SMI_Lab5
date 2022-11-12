@@ -145,7 +145,7 @@ var init = function init() {
     scene.add(fog.obj);
 
     renderer.setClearColor(0x111111, 1.0);
-    camera.position.set(?, ?, ?); //view position - standart 0,0,1000
+    camera.position.set(0, 0, 1000); //view position - standart 0,0,1000
     camera.lookAt(new THREE.Vector3());
     clock.start();
 
